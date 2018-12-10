@@ -294,14 +294,77 @@
 	color: white;
 }
 
+input {
+	background-color: #e7d6ff33;
+	width: 18vw;
+	height: 2vw;
+}  
 
+.in {
+	margin-left: 15vw;
+    margin-top: -32vw;
+}
 
+.place {
+	margin-top: -30vw;
+	margin-left: 18vw;
+}
 
+#text {
+	margin-top: 5vw;
+}
 
+.ip {
+	color: white;
+}
 
+.in2 {
+	margin-left: 37vw;
+	margin-top: -8.18vw
+}
 
+.in3 {
+	margin-left: 59vw;
+	margin-top: -3.18vw;
+}
 
+textarea {
+	background-color: #e7d6ff33;
+}
 
+.in4 {
+	margin-left: 14vw;
+	margin-top: 2vw;
+}
 
+a {
+	color: white;
+	text-decoration: none;
+	font-size: 1.5vw;
+}
 
+.sub {
+	margin-top: 3vw;
+	margin-left: 44.66vw;
+}
 
+.pp {
+	margin-left: 47.7vw;
+	margin-top: -3.5vw;
+}
+
+.map {
+	background-image: url(img/map.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	width: 100vw;
+	height: 20.625vw;
+	margin-top: 7vw;
+}
+
+.footer {
+	background-size: 100%;
+	background-image: url(img/bee.png);
+	width: 100vw;
+	
+}

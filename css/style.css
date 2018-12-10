@@ -1,0 +1,307 @@
+.big {
+	text-align: center;
+	font-size: 210px;
+	margin-top: 10px;
+	color: #cccccc;
+
+}
+
+.small {
+	text-align: center;
+	margin-top: -350px;
+	font-size: 37px;
+
+}
+
+.nad {
+	font-size: 27px;
+	text-align: center;
+	margin-top: 80px;
+}
+
+.pic1 {
+	height: 700px;
+	width: 280px;
+	margin-left: 350px;
+	margin-top: 70px;
+}
+
+.summ {
+	color: #42aaff;
+	font-size: 18px;
+	margin-left: 15px;
+}
+
+.cum {
+	text-align: center;
+}
+
+.pic2 {
+	height: 700px;
+	width: 280px;
+	margin-left: 650px;
+	margin-top: -700px;
+}
+
+.pic3 {
+	height: 700px;
+	width: 280px;
+	margin-left: 950px;
+	margin-top: -700px;
+}
+
+.pic4 {
+	height: 700px;
+	width: 280px;
+	margin-left: 1250px;
+	margin-top: -700px;
+}
+
+.panel {
+	width: 1920px;
+	height: 355px;
+	background-color: #0079db;
+	margin-top: -100px;
+}
+
+.pic5 {
+	margin-left: 350px;
+	padding-top: 100px;
+}
+
+.text {
+	color: white;
+	width: 455px;
+	height: 90px;
+	margin-left: 450px;
+	margin-top: -70px;
+}
+
+.pic6 {
+	margin-left: 980px;
+	margin-top: -108px;
+}
+
+.text2 {
+	color: white;
+	width: 455px;
+	height: 90px;
+	margin-left: 1080px;
+	margin-top: -70px;
+}
+
+.key {
+	width: 1920px;
+	height: 850px;
+	background-image: url(img/back.png);
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+.phone {
+	margin-left: 1250px;
+	padding-top: 150px;
+}
+
+.golovka {
+	font-size: 25px;
+	color: white;
+	margin-top: -570px;
+	margin-left: 190px;
+}
+
+.text3 {
+	color: white;
+	font-size: 20px;
+	height: 90px;
+	width: 500px;
+	margin-left: 190px;
+}
+
+.doska1 {
+	margin-top: -400px;
+	margin-left: 190px;
+}
+
+.text4 {
+	color: white;
+	margin-top: -34px;
+	font-size: 20px;
+	margin-left: 20px;
+}
+
+.doska2 {
+	margin-top: 10px;
+	margin-left: 190px;
+}
+
+.text5 {
+	color: white;
+	margin-top: -34px;
+	font-size: 20px;
+	margin-left: 20px;
+}
+
+.doska3 {
+	margin-left: 190px;
+}
+
+.text6 {
+	color: white;
+	font-size: 20px;
+	margin-top: -34px;
+	margin-left: 20px;
+}
+
+.team {
+	height: 940px;
+	width: 1920px;
+	margin-top: 300px;
+}
+
+.big2 {
+	text-align: center;
+	font-size: 210px;
+	color: #cccccc;
+}
+
+.small2 {
+	text-align: center;
+	margin-top: -350px;
+	font-size: 37px;
+}
+
+.john {
+	height: 700px;
+	width: 280px;
+	margin-left: 350px;
+	margin-top: -560px;
+}
+
+.snow {
+	height: 700px;
+	width: 280px;
+	margin-left: 377px;
+	margin-top: -340px;
+}
+
+.w {
+	color: #42aaff;
+	font-size: 25px;
+	margin-top: -100px;
+	margin-left: 40px; 
+}
+
+.v {
+	font-size: 20px;
+	margin-left: 85px;
+	margin-top: -10px;
+}
+
+.lady {
+	height: 700px;
+	width: 280px;
+	margin-left: 650px;
+	margin-top: -1060px;
+}
+
+.snow2 {
+	height: 700px;
+	width: 280px;
+	margin-left: 677px;
+	margin-top: -340px;
+}
+
+.v2 {
+	font-size: 20px;
+	margin-left: 55px;
+	margin-top: -10px;
+}
+
+.david {
+	height: 700px;
+	width: 280px;
+	margin-left: 950px;
+	margin-top: -1060px;
+}
+
+.v3 {
+	font-size: 20px;
+	margin-left: 55px;
+	margin-top: -10px;
+}
+
+.w2 {
+	color: #42aaff;
+	font-size: 25px;
+	margin-top: -100px;
+	margin-left: 30px; 
+}
+
+.snow3 {
+	height: 700px;
+	width: 380px;
+	margin-left: 977px;
+	margin-top: -340px;
+}
+
+.sansa {
+	height: 700px;
+	width: 280px;
+	margin-left: 1250px;
+	margin-top: -1060px
+}
+
+.snow4 {
+	height: 700px;
+	width: 380px;
+	margin-left: 1277px;
+	margin-top: -340px;
+}
+
+.w3 {
+	color: #42aaff;
+	font-size: 25px;
+	margin-top: -100px;
+	margin-left: 35px; 
+}
+
+.v4 {
+	font-size: 20px;
+	margin-left: 55px;
+	margin-top: -10px;
+}
+
+.c {
+	height: 850px;
+	width: 1920px;
+	background-image: url(img/last.png);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	margin-top: -500px;
+}
+
+.big3 {
+    text-align: center;
+	font-size: 210px;
+	color: #cccccc;
+}
+
+.small3 {
+    text-align: center;
+	margin-top: -350px;
+	font-size: 37px;
+	color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
